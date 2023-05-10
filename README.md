@@ -1,6 +1,13 @@
 # Bookmark Api
 
-built with Nest!
+Basic CRUD application built with NestJs.
+
+Features:
+- Authentication
+- User CRUD
+- Bookmark CRUD
+- Postgres docker
+- e2e tests
 
 ## Running the app
 
@@ -21,3 +28,7 @@ $ npm run start:prod
 # e2e tests
 $ npm run test:e2e
 ```
+
+## Thank you!
+
+built following FreeCodeCamp's (NestJs tutorial)[https://www.freecodecamp.org/news/learn-nestjs-by-building-a-crud-api/]
