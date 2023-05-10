@@ -31,4 +31,4 @@ $ npm run test:e2e
 
 ## Thank you!
 
-built following FreeCodeCamp's (NestJs tutorial)[https://www.freecodecamp.org/news/learn-nestjs-by-building-a-crud-api/]
+built following FreeCodeCamp's [NestJs tutorial](https://www.freecodecamp.org/news/learn-nestjs-by-building-a-crud-api/)
